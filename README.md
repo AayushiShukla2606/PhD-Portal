@@ -1,2 +1,2 @@
 "# PhD-Portal" 
-An Online Portal to Automate PhD Procedure at Banasthali Vidyapith
+An Online Portal to Automate PhD Process at Banasthali Vidyapith
